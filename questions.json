@@ -1,0 +1,17 @@
+{
+  "1":{
+    "question": "Which type of Programming does Python support?",
+    "choices": ["object-oriented programming","structured programming","functional programming","all of the mentioned"],
+    "answer": "all of the mentioned"
+  },
+  "2":{
+    "question": "What is output of print(math.pow(3, 2))?",
+    "choices": ["9.0","None","9","None of the mentioned"],
+    "answer": "9.0"
+  },
+  "3":{
+    "question": "What arithmetic operators cannot be used with strings in Python?",
+    "choices": ["*","-","+","All of the mentioned"],
+    "answer": "-"
+  }
+}
